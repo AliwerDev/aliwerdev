@@ -11,7 +11,7 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/alisheruralov" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="hasan-demir" height="30" width="30" /></a>
-<a href="https://twitter.com/alisheruralov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="demir_js" height="30" width="40" /></a>
+<a href="https://twitter.com/scriptistuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="demir_js" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/uralovalisher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan-demir" height="30" width="40" /></a>
 
 </p>
